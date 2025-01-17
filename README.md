@@ -20,3 +20,8 @@ The Simon Game is a memory-based game built using **HTML**, **CSS**, and **JavaS
 - **HTML** for the structure
 - **CSS** for styling and animations
 - **JavaScript** for the game logic
+
+## Live Demo
+
+You can play the game live at the following link:  
+[Simon Game Live Demo](https://simon-game-kkyq.onrender.com)
